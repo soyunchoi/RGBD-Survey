@@ -32,7 +32,7 @@ If you find missing papers or datasets, feel free to open an **issue** or submit
 
 ![RGB-D Segmentation Timeline](figures/papers.png)
 
-**Fig.0:** Number of RGB-D semantic segmentation papers categorized by model architecture (CNN, Transformer, Transformer with Prompt Learning) from 2016 to 2025.
+**Fig.1:** Number of RGB-D semantic segmentation papers categorized by model architecture (CNN, Transformer, Transformer with Prompt Learning) from 2016 to 2025.
 Early RGB-D semantic segmentation approaches relied on **hand-crafted features and CNN-based architectures**.  
 With the rapid development of **transformer architectures and multimodal learning**, recent works focus on **cross-modal attention, prompt learning, and foundation models**.
 
