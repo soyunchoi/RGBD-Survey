@@ -1,6 +1,8 @@
 # RGB-D Semantic Segmentation Survey
 
 A curated list of **papers, datasets, and resources for RGB-D Semantic Segmentation**, based on our survey paper.
+> **Comprehensive Survey on Advances and Challenges in RGB-D Semantic Segmentation**
+
 
 ---
 
@@ -12,10 +14,6 @@ A curated list of **papers, datasets, and resources for RGB-D Semantic Segmentat
 
 ## Introduction
 
-This repository accompanies our survey paper:
-
-> **Comprehensive Survey on Advances and Challenges in RGB-D Semantic Segmentation**
-
 RGB-D semantic segmentation aims to improve scene understanding by leveraging both **RGB images and depth information**.  
 With the emergence of deep learning and transformer-based models, significant progress has been made in **multi-modal feature fusion, cross-modal learning, and robust perception under challenging environments**.
 
@@ -23,8 +21,6 @@ This repository provides a curated collection of:
 
 - RGB-D semantic segmentation **papers**
 - RGB-D **benchmark datasets**
-- **taxonomy of methods**
-- **evaluation benchmarks**
 
 If you find missing papers or datasets, feel free to open an **issue** or submit a **pull request**.
 
