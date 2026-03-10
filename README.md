@@ -129,6 +129,3 @@ More details can be found in our survey paper.
 
 ---
 
-# Contribution
-
-If you find missing papers or datasets, please open an **issue** or submit a **pull request**.
