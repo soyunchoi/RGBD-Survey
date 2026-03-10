@@ -13,7 +13,7 @@ The goal of this repository is to organize key resources for researchers working
 ## CNN-based Methods
 
 | Year | Venue | Method | Code |
-|-----|------|------|------|------|
+|-----|------|------|------|
 | 2016 | ECCV | [LSTM-CF](https://arxiv.org/abs/1604.01793) | https://github.com/zhezh/faster-rcnn.pytorch |
 | 2017 | ICCV | [RDFNet](https://arxiv.org/abs/1711.07027) | https://github.com/shujiepark/RDFNet |
 | 2017 | TMM | [Multimodal RNN](https://ieeexplore.ieee.org/document/8022921) | - |
@@ -38,7 +38,7 @@ The goal of this repository is to organize key resources for researchers working
 ## Transformer-based Methods
 
 | Year | Venue | Method | Code |
-|-----|------|------|------|------|
+|-----|------|------|------|
 | 2022 | CVPR | [OMNIVORE](https://arxiv.org/abs/2205.08318) | https://github.com/facebookresearch/omnivore |
 | 2022 | CVPR | [TokenFusion](https://arxiv.org/abs/2204.08721) | https://github.com/yikaiw/TokenFusion |
 | 2022 | ECCV | [MultiMAE](https://arxiv.org/abs/2204.01678) | https://github.com/EPFL-VILAB/MultiMAE |
@@ -61,7 +61,7 @@ The goal of this repository is to organize key resources for researchers working
 ## Transformer + Prompt Learning
 
 | Year | Venue | Method | Code |
-|-----|------|------|------|------|
+|-----|------|------|------|
 | 2023 | IROS | [DPLNet](https://arxiv.org/abs/2308.03235) | https://github.com/DPLNet/DPLNet |
 | 2024 | AAAI | [GoPT](https://arxiv.org/abs/2310.17661) | - |
 
@@ -72,7 +72,7 @@ The goal of this repository is to organize key resources for researchers working
 ## Indoor RGB-D Datasets
 
 | Dataset | Year | Scene | Classes | Images | 
-|------|------|------|------|------|------|
+|------|------|------|------|------|
 | [B3DO](https://rgbd-dataset.cs.washington.edu) | 2011 | Indoor | 50 | 849 |
 | [NYUDv1](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v1.html) | 2011 | Indoor | 13 | 2,347 | 
 | [RGB-D Object Dataset](https://rgbd-dataset.cs.washington.edu) | 2011 | Indoor | 51 | 250k |
@@ -91,7 +91,7 @@ The goal of this repository is to organize key resources for researchers working
 ## Outdoor / Driving RGB-D Datasets
 
 | Dataset | Year | Scene | Classes | Images |
-|------|------|------|------|------|------|
+|------|------|------|------|------|
 | [Cityscapes](https://www.cityscapes-dataset.com) | 2016 | Driving | 30 | 25k |
 | [NuScenes](https://www.nuscenes.org) | 2019 | Driving | 23 | 1.4M |
 | [WoodScape](https://woodscape.dataset) | 2019 | Driving | 40 | 100k |
