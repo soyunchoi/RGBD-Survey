@@ -1,10 +1,42 @@
-# RGB-D Semantic Segmentation Survey Resources
+# RGB-D Semantic Segmentation Survey
 
-This repository collects **papers and datasets related to RGB-D semantic segmentation**, based on our survey paper:
+A curated list of **papers, datasets, and resources for RGB-D Semantic Segmentation**, based on our survey paper.
+
+---
+
+## Authors
+
+**Soyun Choi**, **Eunnam Cho**, **Aecheon Jung**, **Junhong Min**, **Byung-Cheol Min**, **Sungeun Hong**
+
+---
+
+## Introduction
+
+This repository accompanies our survey paper:
 
 > **Comprehensive Survey on Advances and Challenges in RGB-D Semantic Segmentation**
 
-The goal of this repository is to organize key resources for researchers working on **RGB-D semantic segmentation and multimodal scene understanding**.
+RGB-D semantic segmentation aims to improve scene understanding by leveraging both **RGB images and depth information**.  
+With the emergence of deep learning and transformer-based models, significant progress has been made in **multi-modal feature fusion, cross-modal learning, and robust perception under challenging environments**.
+
+This repository provides a curated collection of:
+
+- RGB-D semantic segmentation **papers**
+- RGB-D **benchmark datasets**
+- **taxonomy of methods**
+- **evaluation benchmarks**
+
+If you find missing papers or datasets, feel free to open an **issue** or submit a **pull request**.
+
+---
+
+![RGB-D Segmentation Timeline](figures/papers.png)
+
+**Fig.0:** Number of RGB-D semantic segmentation papers categorized by model architecture (CNN, Transformer, Transformer with Prompt Learning) from 2016 to 2025.
+Early RGB-D semantic segmentation approaches relied on **hand-crafted features and CNN-based architectures**.  
+With the rapid development of **transformer architectures and multimodal learning**, recent works focus on **cross-modal attention, prompt learning, and foundation models**.
+
+More details can be found in our survey paper.
 
 ---
 
