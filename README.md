@@ -37,7 +37,7 @@ The goal of this repository is to organize key resources for researchers working
 
 ## Transformer-based Methods
 
-| Year | Venue | Method | Paper | Code |
+| Year | Venue | Method | Code |
 |-----|------|------|------|------|
 | 2022 | CVPR | [OMNIVORE](https://arxiv.org/abs/2205.08318) | https://github.com/facebookresearch/omnivore |
 | 2022 | CVPR | [TokenFusion](https://arxiv.org/abs/2204.08721) | https://github.com/yikaiw/TokenFusion |
@@ -60,7 +60,7 @@ The goal of this repository is to organize key resources for researchers working
 
 ## Transformer + Prompt Learning
 
-| Year | Venue | Method | Paper | Code |
+| Year | Venue | Method | Code |
 |-----|------|------|------|------|
 | 2023 | IROS | [DPLNet](https://arxiv.org/abs/2308.03235) | https://github.com/DPLNet/DPLNet |
 | 2024 | AAAI | [GoPT](https://arxiv.org/abs/2310.17661) | - |
